@@ -1,0 +1,14 @@
+{
+	"name": "linksNotWorking",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vitepress dev docs",
+		"build": "vitepress build docs",
+		"serve": "vitepress serve docs --port 5001"
+	},
+	"devDependencies": {
+		"vitepress": "^0.11.5"
+	}
+}
